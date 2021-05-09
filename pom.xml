@@ -99,7 +99,7 @@ flexible messaging model and an intuitive client API.</description>
     <zookeeper.version>3.5.7</zookeeper.version>
     <netty.version>4.1.51.Final</netty.version>
     <netty-tc-native.version>2.0.33.Final</netty-tc-native.version>
-    <jetty.version>9.4.35.v20201120</jetty.version>
+    <jetty.version>9.4.38.v20210224</jetty.version>
     <jersey.version>2.31</jersey.version>
     <athenz.version>1.8.38</athenz.version>
     <prometheus.version>0.5.0</prometheus.version>
@@ -139,7 +139,7 @@ flexible messaging model and an intuitive client API.</description>
     <clickhouse-jdbc.version>0.2.4</clickhouse-jdbc.version>
     <mariadb-jdbc.version>2.6.0</mariadb-jdbc.version>
     <hdfs-offload-version3>3.2.0</hdfs-offload-version3>
-    <org.eclipse.jetty-hdfs-offload>9.3.24.v20180605</org.eclipse.jetty-hdfs-offload>
+    <org.eclipse.jetty-hdfs-offload>9.4.38.v20210224</org.eclipse.jetty-hdfs-offload>
     <elasticsearch.version>7.9.1</elasticsearch.version>
     <presto.version>332</presto.version>
     <scala.binary.version>2.11</scala.binary.version>
